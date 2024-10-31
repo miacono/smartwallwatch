@@ -1,2 +1,2 @@
-# smartwallwatch
-A wall watch based on Raspberry
+# Wall Watch PI
+A smart wall watch based on Raspberry PI
